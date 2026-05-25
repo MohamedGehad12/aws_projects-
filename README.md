@@ -35,7 +35,7 @@ secured inside private subnets.
 ---
 
 ## 🏛️ Architecture Overview
-
+![Architecture Diagram](Project-1.png)
 ### VPC Design
 
 Region
